@@ -1,5 +1,6 @@
 # World-Covid-Status-Notes
-As I am tracking the global status and making videos, I will put things here to share
+As I am tracking the global status and making videos, I will put things here to share.  
+Richard Collins, Director, The Internet Foundation
 
 The current version of the sheet is named "Master"
 The names of the other files will correspond to the name of the video.
